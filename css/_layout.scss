@@ -1,0 +1,18 @@
+html,
+body {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+@media(max-width:1024px) {
+
+    html,
+    body {
+        font-size: 14px;
+    }
+}
