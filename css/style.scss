@@ -1,7 +1,27 @@
+@import 'var';
+
 @import 'reset';
 
-@import '_layout';
+@import 'layout';
 
-@import 'usa';
+@import 'animate';
 
-@import 'services';
+@import 'all';
+
+@import 'page-offer';
+
+@import 'site-up';
+
+@import 'how-work';
+
+@import 'directions';
+
+@import 'cost';
+
+@import 'personal';
+
+@import 'footer';
+
+@import 'popup';
+
+@import 'article';
