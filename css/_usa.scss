@@ -35,7 +35,7 @@
         border-bottom: 1px solid #ccc;
     }
 
-    &__row:nth-child(even) {
+    &__row:nth-child(odd) {
         flex-direction: row-reverse;
     }
 
@@ -73,7 +73,7 @@
         &__row {
             flex-direction: column-reverse;
         }
-        &__row:nth-child(even) {
+        &__row:nth-child(odd) {
             flex-direction: column-reverse;
         }
 
